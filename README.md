@@ -17,3 +17,5 @@ The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More detail
 ## Links úteis
 
 [OpenJDK](https://adoptopenjdk.net/index.html)
+
+Login screen : [GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
