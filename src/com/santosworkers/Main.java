@@ -42,9 +42,8 @@ public class Main {
         panel.add(button);
         
 
-        JLabel success = new JLabel("");
-        passwordLabel.setBounds(10, 110, 300, 25);
-        
+        JLabel success = new JLabel("Success on the process!");
+        passwordLabel.setBounds(10, 110, 300, 25);        
         panel.add(success);
 
 
