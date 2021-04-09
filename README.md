@@ -1,21 +1,17 @@
-## Getting Started
+## Grupo de estudos Java 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto desenvolvido ao longo do curso da Oracle e do conteúdo disponibilizado 
+pelo grupo de estudos da linguagem Java.
 
-## Folder Structure
+## Objetivos semana 1-4 
 
-The workspace contains two folders by default, where:
+- Implementar algoritmos de busca e ordenação 
+- Implementar classes e objetos 
+- Implementar pacotes de código 
+- Implementar estruturas de dados como árvores e pilhas 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Objetivos semana 5-7
 
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
-
-
-## Links úteis
-
-[OpenJDK](https://adoptopenjdk.net/index.html)
-
-Login screen : [GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws)
+- Implementar interface gráfica na aplicação 
+- Implementar interfaces de leitura e tabelas 
+- Realizar conexões com bases de dados 
